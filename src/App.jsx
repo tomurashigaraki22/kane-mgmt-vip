@@ -60,7 +60,7 @@ function App() {
               className="text-white text-2xl font-semibold mb-2"
               whileHover={{ scale: 1.1 }}
             >
-              Ryan Poynter
+              Justin Lowery
             </motion.p>
             <p className="text-white/80">VIP Access Granted</p>
           </motion.div>
@@ -102,7 +102,7 @@ function App() {
               className="text-white text-2xl font-semibold mb-2"
               whileHover={{ scale: 1.1 }}
             >
-              Justin Lowery
+              Ryan Poynter
             </motion.p>
             <p className="text-white/80">VIP Access Granted</p>
           </motion.div>
